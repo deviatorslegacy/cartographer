@@ -1,0 +1,7 @@
+.ninja_deps
+.ninja_log
+CMakeCache.txt
+CMakeFiles/
+build.ninja
+cartographer
+cmake_install.cmake
